@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Task3Sem3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         ArrayList<Integer> list = new ArrayList<>();
         Random ran = new Random();
 
