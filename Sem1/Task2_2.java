@@ -21,7 +21,7 @@ public class Task2_2 {
                 result = num - num2;
                 break;
 
-            case "":
+            case "*":
                 result = num * num2;
                 break;
             case "/":
